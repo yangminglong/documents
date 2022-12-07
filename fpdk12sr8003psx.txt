@@ -1,3 +1,0 @@
-https://www.fujitsu.com/downloads/MICRO/fme/fdk/fpdk12sr8003psx.pdf
-
-串联电阻8750，FB电压0.8
